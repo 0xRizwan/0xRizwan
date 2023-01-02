@@ -35,18 +35,6 @@ I am a blockchain developer and Web 3.0 Enthusiast. I am looking forward to be t
 
 <p align="left"> <a href="https://discord.com/users/Mohammed Rizwan#9844" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/mohammedrizwann123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammedrizwann123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
-
-
-# 💫 About Me:
-I am a blockchain developer and Web 3.0 Enthusiast. I am looking forward to be the part of this wonderful technology revolution i.e blockchain. I have started my journey by learning front end web development skills like HTML, CSS and Javascript, later i started learning solidity and in parallel created few smart contracts on Remix IDE. For professional development, I started creating, testing, deploying the smart contracts on hardhat. Currently i am preparing the Decentralized Applications(DAPPs) where the actual smart contract can be interacted to front end by using ethers.js. I have created few DAPPs like simple counter DAPP, Crowdfunding DAPP, NFT Marketplace, Chai DAPP, Whitelist DAPP, etc.<br><br>🌍 I'm based in India<br>✉️ You can contact me at mohammedrizwann123@gmail.com<br>🧠 I'm learning Polygon, Next.js, etc.<br>🤝 I'm open to collaborating on Web 3.0 Projects.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedrizwann123) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohammedrizwann123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedrizwann123&theme=dark&hide_border=false)<br/>
