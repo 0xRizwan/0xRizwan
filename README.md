@@ -4,7 +4,7 @@ Hi 👋 My name is Mohammed Rizwan
 Blockchain developer
 --------------------
 
-I am a blockchain developer and Web 3.0 Enthusiast. I am looking forward to be the part of this wonderful technology revolution i.e blockchain. I have started my journey by learning front end web development skills like HTML, CSS and Javascript, later i started learning solidity and in parallel created few smart contracts on Remix IDE. For professional development, I started creating, testing, deploying the smart contracts on hardhat. Currently i am preparing the Decentralized Applications(DAPPs) where the actual smart contract can be interacted to front end by using ethers.js. I have created few DAPPs like simple counter DAPP, Crowdfunding DAPP, NFT Marketplace, Chai DAPP, Whitelist DAPP, etc.
+I am a blockchain developer and Web 3.0 Enthusiast. 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mohammedrizwann123@gmail.com](mailto:mohammedrizwann123@gmail.com)
