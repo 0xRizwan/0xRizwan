@@ -1,7 +1,7 @@
 Hello, I am Mohammed Rizwan :raising_hand_man:
 ================================
 
-### About my acheivements in last 6 months :dart: :
+### About my acheivements in last 6 months :dart: 
 
 :pushpin: I am a blockchain developer having experience on Ethereum blockchain.                                                                                         
 :pushpin: I have Created different smart contracts to polish my soldity practice.                                                                                       
@@ -18,10 +18,12 @@ Hello, I am Mohammed Rizwan :raising_hand_man:
 :cyclone: Ethereum   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: Solidity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;    :cyclone: Javascript   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: Hardhat   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: IPFS   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: Ethers.js   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: React.js   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: Next.js <br><br>
 :cyclone: Web3Modal  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    :cyclone: HTML &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        :cyclone: CSS3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    :cyclone: Tailwind CSS   &nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: OpenZeppelin, etc. 
 
-Contact me
+### Contact me
 
-* :incoming_envelope: E-mail:- [mohammedrizwann123@gmail.com](mailto:mohammedrizwann123@gmail.com)
-* 
+* Discord:- Mohammed Rizwan#9844
+* Telegram:- Mohammed Rizwan
+* Linkedin:- https://www.linkedin.com/in/mohammedrizwann123
+* E-mail:- [mohammedrizwann123@gmail.com](mailto:mohammedrizwann123@gmail.com)
 
 
 
