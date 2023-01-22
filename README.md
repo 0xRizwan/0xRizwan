@@ -11,11 +11,12 @@ Hello, I am Mohammed Rizwan :raising_hand_man:
 
 🧠 I am currently learning and building Decentralised applications(DAPPs), Smart contract auditing, Polygon, Next.js, etc.
 
-🤝  I'm open to collaborating on Web 3.0 Projects.
+🤝  I'm open to collaborate on Web 3.0 Projects.
 
 ### Skills
 
-:cyclone: Ethereum   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: Solidity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;    :cyclone: Javascript   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: Hardhat   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: IPFS   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: Ethers.js   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: React.js   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: Next.js <br><br>
+:cyclone: Ethereum   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: Solidity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;    :cyclone: Javascript   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: Hardhat   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: IPFS   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: Ethers.js   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: React.js   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n   :cyclone: Next.js 
+<br><br>
 :cyclone: Web3Modal  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    :cyclone: HTML &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        :cyclone: CSS3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    :cyclone: Tailwind CSS   &nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: OpenZeppelin, etc. 
 
 ### Contact me
