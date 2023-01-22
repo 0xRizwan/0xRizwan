@@ -7,9 +7,9 @@ Blockchain developer and Web 3.0 Enthusiast.
 ### About my acheivements in last 6 months :dart: :
 
 :pushpin: I am a blockchain developer having experience on Ethereum blockchain.                                                                                         
-:pushpin: I have Created different smart contracts to polish my soldity practice. 
-:pushpin: In addition, I have created my own ERC20 Tokens, ERC721 NFTs and deployed them on various testnets like Goerli, Mumbai testnet, etc.
-:pushpin: I am well versed with Blockchain fundamentals and have extensive knowledge of consensum algorithms, EVM, Understanding of cryptography, including asymmetric, symmetric, hash functions, and encryption/signatures, Familiarity with concepts such as blockchain confirmations, multisig, and different wallets and solid understanding of Ethereum, Polygon, Blockchain tools, etc. 
+:pushpin: I have Created different smart contracts to polish my soldity practice.                                                                                       
+:pushpin: In addition, I have created my own ERC20 Tokens, ERC721 NFTs and deployed them on various testnets like Goerli, Mumbai testnet, etc.                         
+:pushpin: I am well versed with Blockchain fundamentals and have extensive knowledge of consensum algorithms, EVM, Understanding of cryptography, including asymmetric, symmetric, hash functions, and encryption/signatures, Familiarity with concepts such as blockchain confirmations, multisig, and different wallets and solid understanding of Ethereum, Polygon, Blockchain tools, etc.                                                                                                             :pushpin: I have build some decentralized applications like NFT Marketplace, Crowdfunding, Todo List DAPP, Whitelist DAPP, Voting DAPP, etc. 
 
 🧠 I am currently learning and building Decentralised applications(DAPPs), Smart contract auditing, Polygon, Next.js, etc.
 
