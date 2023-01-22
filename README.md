@@ -1,10 +1,11 @@
-Hi 👋 I am Mohammed Rizwan :raising_hand_man:
+Hello, I am Mohammed Rizwan :raising_hand_man:
 ================================
 
 Blockchain developer and Web 3.0 Enthusiast.
-🌍  India
+🌍  India :india:
 --------------------
 
+About my acheivements in last 6 months :dart: :
 I am a resourceful blockchain developer having experience on Ethereum blockchain. I have Created different smart contracts to polish my soldity practice. In addition, I have created my own ERC20 Tokens, ERC721 NFTs and deployed them on various testnets like Goerli, Mumbai testnet, etc., I am well versed with Blockchain fundamentals and have extensive knowledge of consensum algorithms, EVM, Understanding of cryptography, including asymmetric, symmetric, hash functions, and encryption/signatures, Familiarity with concepts such as blockchain confirmations, multisig, and different wallets and solid understanding of Ethereum, Polygon, Blockchain tools, etc. 
 
 🧠 I am currently learning and building Decentralised applications(DAPPs), Smart contract auditing, Polygon, Next.js, etc.
@@ -17,7 +18,7 @@ Ethereum, Solidity, Javascript, Hardhat, IPFS Ethers.js, React.js, Next.js, Web3
 
 Contact me
 
-* ✉️  E-mail:- [mohammedrizwann123@gmail.com](mailto:mohammedrizwann123@gmail.com)
+* :incoming_envelope: E-mail:- [mohammedrizwann123@gmail.com](mailto:mohammedrizwann123@gmail.com)
 * 
 
 
