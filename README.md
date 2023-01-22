@@ -1,4 +1,4 @@
-Hi 👋 I am Mohammed Rizwan :blush:
+Hi 👋 I am Mohammed Rizwan :raising_hand_man:
 ================================
 
 Blockchain developer and Web 3.0 Enthusiast.
