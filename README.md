@@ -15,7 +15,7 @@ Hello, I am Mohammed Rizwan :raising_hand_man:
 
 ### Skills
 
-:cyclone: Ethereum   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: Solidity  &nbsp;    :cyclone: Javascript      :cyclone: Hardhat      :cyclone: IPFS      :cyclone: Ethers.js      :cyclone: React.js      :cyclone: Next.js      :cyclone: Web3Modal      :cyclone: HTML      :cyclone: CSS3      :cyclone: Tailwind CSS      :cyclone: OpenZeppelin, etc. 
+:cyclone: Ethereum   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :cyclone: Solidity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;    :cyclone: Javascript      :cyclone: Hardhat      :cyclone: IPFS      :cyclone: Ethers.js      :cyclone: React.js      :cyclone: Next.js      :cyclone: Web3Modal      :cyclone: HTML      :cyclone: CSS3      :cyclone: Tailwind CSS      :cyclone: OpenZeppelin, etc. 
 
 Contact me
 
