@@ -13,11 +13,7 @@ I am a blockchain developer and Web 3.0 Enthusiast.
 
 ### Skills
 
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/Mohammed Rizwan#9844" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/mohammedrizwann123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammedrizwann123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+Ethereum
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohammedrizwann123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
