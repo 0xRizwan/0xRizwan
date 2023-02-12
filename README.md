@@ -5,7 +5,7 @@ Hello, I am Mohammed Rizwan :raising_hand_man:
 
 :pushpin: I am a blockchain developer having experience on Ethereum blockchain.                                                                                         
 :pushpin: I have created different types of smart contracts including Upgradeable smart contract using solidity language.                                                                                   
-:pushpin: In addition, I have created my own ERC20 Tokens, ERC721 NFTs and deployed them on Goerli, Mumbai testnet, etc. I have listed some NFTs on Opensea testnet.  
+:pushpin: In addition, I have created my own ERC20 Tokens, ERC721 NFTs, ERC 1155 tokens, Music NFTs and deployed them on Goerli, Mumbai testnet, etc. I have listed some NFTs on Opensea testnet.  
 :pushpin: I am well versed with Blockchain fundamentals and have extensive knowledge and understanding of consensum algorithms, EVM, Cryptography including asymmetric, symmetric, hash functions, and encryption/signatures, Familiarity with concepts such as blockchain confirmations, multisig, and different wallets and solid        understanding of Ethereum, Polygon, Blockchain tools, etc.        <br>                                                                                                                                                                                                                                                              
 :pushpin: I have build some decentralized applications like NFT Marketplace, Crowdfunding, Todo List DAPP, Whitelist DAPP, Voting DAPP, etc. 
 
