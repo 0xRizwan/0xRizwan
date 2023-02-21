@@ -9,7 +9,7 @@ Hello, I am Mohammed Rizwan :raising_hand_man:
 :pushpin: I am well versed with Blockchain fundamentals and have extensive knowledge and understanding of consensum algorithms, EVM, Cryptography including asymmetric, symmetric, hash functions, and encryption/signatures, Familiarity with concepts such as blockchain confirmations, multisig, and different wallets and solid        understanding of Ethereum, Polygon, Blockchain tools, Smart contract security etc.        <br>                                                                                                                                                                                                                                                              
 :pushpin: I have build some decentralized applications like NFT Marketplace, Crowdfunding, Todo List DAPP, Whitelist DAPP, Voting DAPP, etc. 
 
-🧠 I am currently learning and building Decentralised applications(DAPPs), Smart contract auditing, Polygon, Next.js, etc.
+🧠 I am currently learning and building Decentralised applications(DAPPs), Smart contract auditing and testing, Polygon, Next.js, etc.
 
 🤝  I'm open to collaborate on Web 3.0 Projects.
 
