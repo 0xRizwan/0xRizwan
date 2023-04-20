@@ -1,11 +1,9 @@
 Hello, I am Mohammed Rizwan :raising_hand_man:
+================================
 
 Smart Contract Auditing @Code4rena and @Sherlock
 
-================================
-
 ### About my acheivements in last 8 months :dart: 
-
 :pushpin: I am a blockchain developer having experience on Ethereum blockchain.                                                                                         
 :pushpin: I have created different types of smart contracts including Upgradeable smart contract using solidity language.                                                                                   
 :pushpin: In addition, I have created my own ERC20 Tokens, ERC721 NFTs, ERC 1155 tokens, Music NFTs and deployed them on Goerli, Mumbai testnet, etc. I have listed some NFTs on Opensea testnet.  
