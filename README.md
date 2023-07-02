@@ -26,16 +26,3 @@ Smart Contract Auditing @Code4rena and @Sherlock
 * Telegram:- Mohammed Rizwan
 * Linkedin:- https://www.linkedin.com/in/mohammedrizwann123
 * E-mail:- [mohammedrizwann123@gmail.com](mailto:mohammedrizwann123@gmail.com)
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohammedrizwann123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedrizwann123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizwann123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mohammedrizwann123&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
