@@ -1,7 +1,9 @@
 Hello, I am Mohammed Rizwan :raising_hand_man:
 ================================
 
-Smart Contract Auditor @Code4rena and @Sherlock
+Smart Contract Auditor @Code4rena, ranked at #728. [Code4rena Profile](https://code4rena.com/@MohammedRizwan)
+
+Smart Contract Auditor @Sherlock
 
 🧠 I am presently putting my all efforts to find bugs in solidity smart contracts. 
 
