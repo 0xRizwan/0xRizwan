@@ -5,7 +5,7 @@ Smart Contract Auditor @Code4rena, ranked at #728. [Code4rena Profile](https://c
 
 Smart Contract Auditor @Sherlock
 
-🧠 I am presently putting my all efforts to find bugs in solidity smart contracts. 
+🧠 I am presently learning about smart contract security and in parallel putting my all efforts to find bugs in Solidity smart contracts. 
 
 🤝  I'm open to collaborate on Security audits as solo and team. 
 
