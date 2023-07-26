@@ -1,7 +1,7 @@
 Hello, I am Mohammed Rizwan :raising_hand_man:
 ================================
 
-Smart Contract Auditor @Code4rena, ranked at #728. [Code4rena Profile](https://code4rena.com/@MohammedRizwan)
+Smart Contract Auditor @Code4rena, ranked at #526. [Code4rena Profile](https://code4rena.com/@MohammedRizwan)
 
 Smart Contract Auditor @Sherlock
 
