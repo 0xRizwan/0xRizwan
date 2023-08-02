@@ -1,7 +1,7 @@
 Hello, I am Mohammed Rizwan :raising_hand_man:
 ================================
 
-Wardon @Code4rena, ranked at #472. [Code4rena Profile](https://code4rena.com/@MohammedRizwan)
+Wardon @Code4rena, ranked at #442. [Code4rena Profile](https://code4rena.com/@MohammedRizwan)
 
 Watson @Sherlock
 
