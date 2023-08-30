@@ -3,7 +3,7 @@ Hello, I am Mohammed Rizwan :raising_hand_man:
 
 Warden @Code4rena, ranked at #334. [Code4rena Profile](https://code4rena.com/@MohammedRizwan)
 
-Watson @Sherlock, ranked at #190. [Sherlock audit leaderboard](https://audits.sherlock.xyz/leaderboard)
+Watson @Sherlock, ranked at #188. [Sherlock audit leaderboard](https://audits.sherlock.xyz/leaderboard)
 
 Auditor @CodeHawks
 
