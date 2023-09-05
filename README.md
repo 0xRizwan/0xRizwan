@@ -13,4 +13,4 @@ Auditor @CodeHawks
 
 
 ### Contact me
-* Discord:- 0x__anon
+* Discord:- 0xrizwan
