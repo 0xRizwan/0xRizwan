@@ -1,16 +1,10 @@
 Hello, I am Mohammed Rizwan :raising_hand_man:
 ================================
 
-Warden @Code4rena, ranked at #335. [Code4rena Profile](https://code4rena.com/@MohammedRizwan)
+I am Smart contract auditor and security researcher. I have been constantly exploring and learning about smart contract security from the past 7 months. In parallel, I am putting my all efforts to find bugs in Solidity smart contracts. 
 
-Watson @Sherlock, ranked at #188. [Sherlock audit leaderboard](https://audits.sherlock.xyz/leaderboard)
+I have been doing audits at Code4rena and Sherlock. The Audit reports can be seen by redirecting from below links.
 
-Auditor @CodeHawks
+[Code4rena Audit reports and Profile](https://code4rena.com/@MohammedRizwan)
 
-🧠 I am presently learning about smart contract security and in parallel putting my all efforts to find bugs in Solidity smart contracts. 
-
-🤝  I'm open to collaborate on Security audits as solo and team. 
-
-
-### Contact me
-* Discord:- 0xrizwan
+[Sherlock Audit reports and Profile](https://audits.sherlock.xyz/watson/MohammedRizwan)
