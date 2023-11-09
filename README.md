@@ -7,4 +7,4 @@ I am a Smart contract Auditor and Security researcher who is constantly explorin
 
 [Sherlock Audit reports and Profile](https://audits.sherlock.xyz/watson/MohammedRizwan)
 
-**Lets make web 3.0 safe and secure.**
+**Let's make web 3.0 safe and secure.**
