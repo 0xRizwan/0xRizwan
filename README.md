@@ -1,4 +1,4 @@
-Hello, I am Mohammed Rizwan :raising_hand_man:
+Hello, I am 0xRizwan :raising_hand_man:
 ================================
 
 I am a Smart contract Security researcher who is constantly exploring and learning about Smart contract security and in parallel putting all efforts to find bugs in Solidity smart contracts. I have been doing audits at `Code4rena` and `Sherlock`.
