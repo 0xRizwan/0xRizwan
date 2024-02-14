@@ -1,8 +1,6 @@
 Hello, I am 0xRizwan :raising_hand_man:
 ================================
 
-Smart contract security Researcher. 
-
 [Code4rena Audit reports and Profile](https://code4rena.com/@MohammedRizwan)
 
 [Sherlock Audit reports and Profile](https://audits.sherlock.xyz/watson/MohammedRizwan)
