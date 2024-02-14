@@ -1,4 +1,4 @@
-Hello, I am 0xRizwan :raising_hand_man:
+Hi, I am 0xRizwan :raising_hand_man:
 ================================
 
 [Code4rena Audit reports and Profile](https://code4rena.com/@MohammedRizwan)
