@@ -1,8 +1,3 @@
-Hi, I am 0xRizwan :raising_hand_man:
-================================
-
-[Code4rena Audit reports and Profile](https://code4rena.com/@MohammedRizwan)
-
-[Sherlock Audit reports and Profile](https://audits.sherlock.xyz/watson/MohammedRizwan)
+[Audit-Portfolio](https://github.com/0xRizwan/Audit-Portfolio)
 
 **Let's make web 3.0 safe and secure.**
